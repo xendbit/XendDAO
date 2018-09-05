@@ -1,0 +1,34 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+coverage/
+dist/
+node_modules/
+hooks/
+platforms/
+plugins/
+www/
+.idea
+target
+deploy.sh
+*.apk
+resources
+*.apk
+rc.txt
+minor_version.txt
+major_version.txt
+nbproject
+.DS_Store
+.sourcemaps/
+.vscode/
+typings/
+XendServerV2/.idea/
+XendServerV2/XendServerV2.iml
+package-lock.json
+Desktop/node_modules
+Desktop/Auth
+Server/.classpath
+Server/.project
+Server/.settings/
+Server/.sts4-cache/
+Server/bin/
